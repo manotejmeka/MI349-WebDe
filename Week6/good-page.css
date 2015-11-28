@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+body {
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica;
+}
+.Fullarticle{
+  padding: 20px 40px;
+  background: #fff;
+=======
+body {
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica;
+}
+.Fullarticle{
+  padding: 20px 40px;
+  background: #fff;
+>>>>>>> 8c38adc527ff79fc9a7103eb2d1b698892ca1903
+}

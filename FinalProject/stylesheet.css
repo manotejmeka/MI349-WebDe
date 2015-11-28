@@ -1,0 +1,48 @@
+body 
+{
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+}
+header{
+	width: 100%;
+	color: white;
+	padding: 10px;
+	height: 150px;
+	background-color: #AA8DC7;
+}
+header h1 {
+	padding-left: 10px;
+	font-size: 24px;
+}
+.buttonlinks
+{
+	font-weight: 100;
+	padding: 5px;
+	margin: 0px;
+	font-size: 20px;
+	font-weight: bold;
+	Margin: 0 Auto;
+	width: 70%;
+}
+
+.buttonlinks div
+{
+	text-align: center;
+	box-sizing: border-box;
+	float: left;
+    width: 15%;
+}
+.intro{
+	background-color: #ccc;
+	padding: 30px;
+	height: 200px;
+}
+footer{
+	clear: both;
+	width: 100%;
+	padding: 20px;
+	height: 50px;
+	background-color: #AA8;
+}

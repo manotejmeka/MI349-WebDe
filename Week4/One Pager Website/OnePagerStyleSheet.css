@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+body 
+{
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica;
+}
+.picture 
+{
+  margin: 0 auto;
+  width: 646px;
+  padding-top: 200px;
+  background: #fff url(Ironman_Thor.jpg) no-repeat center -100px ;
+ }
+ 
+ .main_page
+ {
+  padding: 20px 40px;
+  background: #fff;
+ }
+ .picture_details
+ {
+ 	color: green;
+ 	opacity: 1.0;
+    filter: alpha(opacity=100);
+=======
+body 
+{
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica;
+}
+.picture 
+{
+  margin: 0 auto;
+  width: 646px;
+  padding-top: 200px;
+  background: #fff url(Ironman_Thor.jpg) no-repeat center -100px ;
+ }
+ 
+ .main_page
+ {
+  padding: 20px 40px;
+  background: #fff;
+ }
+ .picture_details
+ {
+ 	color: green;
+ 	opacity: 1.0;
+    filter: alpha(opacity=100);
+>>>>>>> 8c38adc527ff79fc9a7103eb2d1b698892ca1903
+ }

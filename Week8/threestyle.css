@@ -1,0 +1,170 @@
+<<<<<<< HEAD
+body 
+{
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+}
+header{
+	width: 100%;
+	text-align: center;
+	color: white;
+	height: 100px;
+	padding: 15px 0px;
+	background-color: orange;
+}
+
+.column{
+	clear: both;
+	font-weight: 100;
+	padding: 30px 10px;
+	margin: 0px;
+	font-size: 14px;
+	color: #7d7d7d;
+}
+.column div {
+	/*margin: 15px;*/
+	padding: 10px;
+	box-sizing: border-box;
+}
+.cleft{
+	float: left;
+    width: 33%;
+    
+}
+.cmiddle{
+	float: left;
+    width: 33%;
+    
+}
+.cright{
+	float : left;
+	width: 33%;
+}
+footer{
+	clear: both;
+	width: 100%;
+	font-size: 11px;
+	text-align: right;
+	color: blue;
+	height: 30px;
+	padding: 10px 50px;
+	background-color: orange;
+}
+@media (min-width: 400px){
+	header{
+		font-size: 20px;
+	}
+}
+@media (min-width: 800px){
+	footer{
+		background-color: yellow;
+	}
+
+}
+@media (min-width: 1200px){
+	header{
+		background-color: yellow;
+	}
+}
+
+
+@media (min-width: 400px) and (max-width: 799px){
+	.column div
+	{
+		width: 100%;
+	}
+}
+@media (min-width: 800px) and (max-width: 1199px){
+	.column div{
+		width: 50%;
+	}
+
+}
+
+
+=======
+body 
+{
+  background: #ccc;
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+}
+header{
+	width: 100%;
+	text-align: center;
+	color: white;
+	height: 100px;
+	padding: 15px 0px;
+	background-color: orange;
+}
+.column{
+	clear: both;
+	font-weight: 100;
+	padding: 30px 10px;
+	margin: 0px;
+	font-size: 14px;
+	color: #7d7d7d;
+}
+.cleft{
+	float: left;
+    width: 33%;
+    
+}
+.cmiddle{
+	float: left;
+    width: 33%;
+    
+}
+.cright{
+	float : right;
+	width: 33%;
+}
+footer{
+	clear: both;
+	width: 100%;
+	font-size: 11px;
+	text-align: right;
+	color: blue;
+	height: 30px;
+	padding: 10px 50px;
+	background-color: orange;
+}
+@media (min-width: 400px){
+	header{
+		font-size: 20px;
+	}
+}
+@media (min-width: 800px){
+	footer{
+		background-color: yellow;
+	}
+
+}
+@media (min-width: 1200px){
+	header{
+		background-color: yellow;
+	}
+}
+
+
+@media (min-width: 400px) and (max-width: 799px){
+	.column
+	{
+		width: 100%;
+	}
+}
+@media (min-width: 800px) and (max-width: 1199px){
+	.cleft{
+		width: 50%;
+	}
+	.cmiddle{
+		width: 50%;
+	}
+
+}
+
+
+>>>>>>> 8c38adc527ff79fc9a7103eb2d1b698892ca1903
